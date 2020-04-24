@@ -5,7 +5,10 @@ Draw view easy with visual
 
 ### CocoaPods
 CocoaPods is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate Alamofire into your Xcode project using CocoaPods, specify it in your Podfile:
+
+```swift
 pod 'UILayoutKit'
+```
 
 # How to use
 
