@@ -13,6 +13,18 @@ pod 'UISwiftLayoutKit'
 
 ## How to use
 
+```swift
+
+view.visual.anchor(...)
+view.visual.size(...)
+view.visual.format(...)
+view.visual.center(...)
+view.visual.equal(...)
+view.visual.stack(...)
+view.visual.square(...)
+
+```
+
 ### Example 1:
 ```swift
       self.view.visual.anchor([.top, .horizontal], for: view1, padding: 0)
